@@ -1,7 +1,10 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome to Devops automation</h1>
+    <h2> Armelle & Wilfried are happy to serve you </h2>
+    <p> We will learn more about Devops tools CI/CD </p> 
     <p>Please fill in this form to create an account.</p>
+    <p> Let us know if you have any questions. </p>
     <hr>
     <hr>
     <label for="email"><b>Email</b></label>
